@@ -28,6 +28,8 @@ This will prompt your webcamera for a real-time sign to text conversion.
 ### Data 
 Link to dataset: https://github.com/ardamavi/Sign-Language-Digits-Dataset
 
+### License
+MIT
 
 
 
