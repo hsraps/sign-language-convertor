@@ -1,4 +1,4 @@
-# SignLanguage-Digits-to-Text
+# Sign Language Digits Recognition 
 --------------------------------------------------------------------------------------------------------------
 
 A real time American Sign Language(ASL) to Text convertor.
