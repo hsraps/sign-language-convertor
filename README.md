@@ -1,6 +1,5 @@
-# Sign Language Digits Recognition 
+# Sign Language Digits Convertor
 --------------------------------------------------------------------------------------------------------------
-
 A real time American Sign Language(ASL) to Text convertor.
 
 ## Getting Started
